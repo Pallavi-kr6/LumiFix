@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Features
+##   Features
 
 ✨ Upload and enhance images in real-time
 ✨ Improve brightness and contrast
@@ -102,22 +102,18 @@ npm start
 
 ---
 
-## 🎨 UI/UX Highlights
+##  UI/UX Highlights
 
-* 🌑 Dark theme with glassmorphism
-* 🎯 Clean and minimal layout
-* ⚡ Smooth animations
-* 📱 Fully responsive design
+*   Dark theme with glassmorphism
+*   Clean and minimal layout
+*   Smooth animations
+*   Fully responsive design
 
----
-
-## 📸 Demo Preview
-
-*(Add screenshots here)*
+ 
 
 ---
 
-## 💡 Future Improvements
+##   Future Improvements
 
 * AI-based super-resolution
 * Face enhancement filters
@@ -126,25 +122,9 @@ npm start
 
 ---
 
-## 🤝 Contributing
+##   Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
----
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
-
----
-
-## 👩‍💻 Author
-
-**Pallavi Kumari**
-
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
+ 
  
