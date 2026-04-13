@@ -1,0 +1,4 @@
+  backend\run.bat
+  frontend\npm run dev
+  
+ 

@@ -1,0 +1,41 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply bg-gradient-to-br from-gray-900 via-indigo-900/30 to-black text-white font-sans antialiased;
+  }
+}
+
+@layer components {
+  .glass {
+    @apply bg-white/10 backdrop-blur-xl border border-white/20 shadow-2xl;
+  }
+  
+  .glass-hover {
+    @apply hover:bg-white/20 hover:border-white/30 transition-all duration-300;
+  }
+  
+  .slider {
+    @apply w-full h-2 bg-gray-700 rounded-lg appearance-none cursor-pointer accent-purple-500;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-gray-900/50;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-white/20 rounded-full hover:bg-white/30;
+}
+
